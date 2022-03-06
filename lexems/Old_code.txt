@@ -1,0 +1,1 @@
+/*n = i; for (i = 0; i <= n; i++) { printf("%c", str[i]); }while (fgets(string, sizeof(string),info)){length = strlen(string);}k = malloc(i*sizeof(int));scanf("%s", k);printf("%c", k);str = k;read = fgets(k, i, info);len = strlen(k);if (read == NULL)

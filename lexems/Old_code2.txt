@@ -1,0 +1,18 @@
+if (feof(info) == 0)
+				{
+					printf("Reading error in file");
+					return -1;
+				}
+		k[i - 1] = 0;
+		printf("%s", k);
+			if (k[len - 1] != '\n')
+			{
+				COPY += VAL;
+				str = realloc(str, COPY);
+				k = str + COPY-VAL-1;
+			}
+			else
+			{
+				k[len - 1] = 0;
+				break;
+			}*/
